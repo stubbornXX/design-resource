@@ -1,6 +1,6 @@
 # forkTest
 
-# design-resource
+# FirstFork
 
 A list of tools & resources for designers.
 
